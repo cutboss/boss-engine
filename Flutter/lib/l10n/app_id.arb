@@ -1,0 +1,14 @@
+{
+  "@@locale":"id",
+  "backup":"Pencadangan",
+  "checking_status":"Memeriksa status\u2026",
+  "no_data_backed_up":"Tidak ada data yang dicadangkan",
+  "back_up_now":"Cadangkan sekarang",
+  "backing_up_your_data":"Mencadangkan data\u2026",
+  "your_data_is_backed_up":"Data Anda dicadangkan",
+  "couldnt_back_up_data_try_again_later":"Tidak dapat mencadangkan data. Coba lagi nanti.",
+  "backup_details":"Detail pencadangan",
+  "last_backup":"Terakhir dicadangkan",
+  "delete_backup":"Hapus cadangan",
+  "deleting_backup":"Menghapus cadangan"
+}

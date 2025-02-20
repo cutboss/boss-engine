@@ -1,0 +1,14 @@
+{
+  "@@locale":"zh",
+  "backup":"备份",
+  "checking_status":"正在检查状态\u2026",
+  "no_data_backed_up":"没有备份任何数据",
+  "back_up_now":"立即备份",
+  "backing_up_your_data":"正在备份您的数据\u2026",
+  "your_data_is_backed_up":"已成功备份您的数据",
+  "couldnt_back_up_data_try_again_later":"无法备份数据，请稍后重试。",
+  "backup_details":"备份详情",
+  "last_backup":"上次备份日期",
+  "delete_backup":"删除备份",
+  "deleting_backup":"正在删除备份内容"
+}

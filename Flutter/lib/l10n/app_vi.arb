@@ -1,0 +1,14 @@
+{
+  "@@locale":"vi",
+  "backup":"Sao lưu",
+  "checking_status":"Đang kiểm tra trạng thái\u2026",
+  "no_data_backed_up":"Chưa có dữ liệu nào được sao lưu",
+  "back_up_now":"Sao lưu ngay",
+  "backing_up_your_data":"Đang sao lưu dữ liệu của bạn\u2026",
+  "your_data_is_backed_up":"Dữ liệu của bạn đã được sao lưu",
+  "couldnt_back_up_data_try_again_later":"Không thể sao lưu dữ liệu. Thử lại sau.",
+  "backup_details":"Thông tin sao lưu",
+  "last_backup":"Sao lưu lần cuối",
+  "delete_backup":"Xóa dữ liệu sao lưu",
+  "deleting_backup":"Đang xóa dữ liệu sao lưu"
+}

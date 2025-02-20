@@ -1,0 +1,14 @@
+{
+  "@@locale":"fr",
+  "backup":"Sauvegarde",
+  "checking_status":"Vérification de l'état\u2026",
+  "no_data_backed_up":"Aucune donnée sauvegardée",
+  "back_up_now":"Sauvegarder maintenant",
+  "backing_up_your_data":"Sauvegarde de vos données\u2026",
+  "your_data_is_backed_up":"Vos données ont été sauvegardées",
+  "couldnt_back_up_data_try_again_later":"Impossible de sauvegarder les données. Réessayez plus tard.",
+  "backup_details":"Informations sur la sauvegarde",
+  "last_backup":"Dernière sauvegarde",
+  "delete_backup":"Supprimer la sauvegarde",
+  "deleting_backup":"Suppression de la sauvegarde\u2026"
+}

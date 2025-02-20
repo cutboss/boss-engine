@@ -1,0 +1,14 @@
+{
+  "@@locale":"ko",
+  "backup":"백업",
+  "checking_status":"상태 확인 중\u2026",
+  "no_data_backed_up":"백업된 데이터 없음",
+  "back_up_now":"지금 백업",
+  "backing_up_your_data":"데이터 백업 중\u2026",
+  "your_data_is_backed_up":"데이터가 백업되었습니다.",
+  "couldnt_back_up_data_try_again_later":"데이터를 백업할 수 없음. 나중에 다시 시도해 보세요.",
+  "backup_details":"백업 세부정보",
+  "last_backup":"마지막 백업",
+  "delete_backup":"백업 삭제",
+  "deleting_backup":"백업 삭제 중"
+}
