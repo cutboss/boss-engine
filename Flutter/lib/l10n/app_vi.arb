@@ -1,5 +1,10 @@
 {
   "@@locale":"vi",
+  "data":"Dữ liệu",
+  "settings":"Cài đặt",
+  "change":"Thay đổi",
+  "account":"Tài khoản",
+  "remove_account":"Xóa tài khoản",
   "backup":"Sao lưu",
   "checking_status_ellipsis":"Đang kiểm tra trạng thái\u2026",
   "no_data_backed_up":"Chưa có dữ liệu nào được sao lưu",

@@ -1,5 +1,10 @@
 {
   "@@locale":"es",
+  "data":"Datos",
+  "settings":"Ajustes",
+  "change":"Cambiar",
+  "account":"Cuenta",
+  "remove_account":"Quitar cuenta",
   "backup":"Hacer copia de seguridad",
   "checking_status_ellipsis":"Comprobando estado\u2026",
   "no_data_backed_up":"No hay copia de seguridad de ningún dato",

@@ -1,5 +1,10 @@
 {
   "@@locale":"ja",
+  "data":"データ",
+  "settings":"設定",
+  "change":"変更",
+  "account":"アカウント",
+  "remove_account":"アカウントを削除",
   "backup":"バックアップ",
   "checking_status_ellipsis":"ステータスを確認しています\u2026",
   "no_data_backed_up":"データがバックアップされていません",

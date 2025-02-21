@@ -1,5 +1,10 @@
 {
   "@@locale":"zh_Hant",
+  "data":"資料",
+  "settings":"設置",
+  "change":"變更",
+  "account":"帳戶",
+  "remove_account":"移除帳戶",
   "backup":"備份",
   "checking_status_ellipsis":"正在檢查狀態\u2026",
   "no_data_backed_up":"未備份任何資料",

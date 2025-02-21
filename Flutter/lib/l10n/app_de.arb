@@ -1,5 +1,10 @@
 {
   "@@locale":"de",
+  "data":"Daten",
+  "settings":"Einstellungen",
+  "change":"Ändern",
+  "account":"Konto",
+  "remove_account":"Konto entfernen",
   "backup":"Sicherung",
   "checking_status_ellipsis":"Status wird geprüft\u2026",
   "no_data_backed_up":"Keine Daten gesichert",

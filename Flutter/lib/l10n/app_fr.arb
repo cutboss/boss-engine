@@ -1,5 +1,10 @@
 {
   "@@locale":"fr",
+  "data":"Données",
+  "settings":"Paramètres",
+  "change":"Modifier",
+  "account":"Compte",
+  "remove_account":"Supprimer le compte",
   "backup":"Sauvegarde",
   "checking_status_ellipsis":"Vérification de l'état\u2026",
   "no_data_backed_up":"Aucune donnée sauvegardée",

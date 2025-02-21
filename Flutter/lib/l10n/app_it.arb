@@ -1,5 +1,10 @@
 {
   "@@locale":"it",
+  "data":"Dati",
+  "settings":"Impostazioni",
+  "change":"Cambia",
+  "account":"Account",
+  "remove_account":"Rimuovi account",
   "backup":"Backup",
   "checking_status_ellipsis":"Controllo dello stato\u2026",
   "no_data_backed_up":"Nessuna copia di backup dei dati",

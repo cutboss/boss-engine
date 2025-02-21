@@ -1,5 +1,10 @@
 {
   "@@locale":"ru",
+  "data":"Данные",
+  "settings":"Настройки",
+  "change":"Изменить",
+  "account":"Аккаунт",
+  "remove_account":"Удалить аккаунт",
   "backup":"Резервное копирование",
   "checking_status_ellipsis":"Проверка состояния\u2026",
   "no_data_backed_up":"Нет резервных копий",

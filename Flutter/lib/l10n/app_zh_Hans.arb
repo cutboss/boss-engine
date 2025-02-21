@@ -1,5 +1,10 @@
 {
   "@@locale":"zh_Hans",
+  "data":"数据",
+  "settings":"设置",
+  "change":"更改",
+  "account":"账号",
+  "remove_account":"移除账号",
   "backup":"备份",
   "checking_status_ellipsis":"正在检查状态\u2026",
   "no_data_backed_up":"没有备份任何数据",

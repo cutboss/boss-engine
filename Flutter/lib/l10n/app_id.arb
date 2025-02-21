@@ -1,5 +1,10 @@
 {
   "@@locale":"id",
+  "data":"Data",
+  "settings":"Setelan",
+  "change":"Ubah",
+  "account":"Akun",
+  "remove_account":"Hapus akun",
   "backup":"Pencadangan",
   "checking_status_ellipsis":"Memeriksa status\u2026",
   "no_data_backed_up":"Tidak ada data yang dicadangkan",
