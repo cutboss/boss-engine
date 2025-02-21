@@ -1,14 +1,16 @@
 {
-  "@@locale":"pt",
+  "@@locale":"pt_BR",
   "backup":"Backup",
-  "checking_status":"Verificando status\u2026",
+  "checking_status_ellipsis":"Verificando status\u2026",
   "no_data_backed_up":"Não há dados salvos em backup",
   "back_up_now":"Fazer backup agora",
-  "backing_up_your_data":"Fazendo backup dos seus dados\u2026",
+  "backing_up_your_data_ellipsis":"Fazendo backup dos seus dados\u2026",
   "your_data_is_backed_up":"O backup dos seus dados foi realizado",
   "couldnt_back_up_data_try_again_later":"Não foi possível fazer o backup dos dados. Tente novamente mais tarde.",
   "backup_details":"Detalhes do backup",
   "last_backup":"Último backup",
   "delete_backup":"Excluir backup",
-  "deleting_backup":"Excluindo o backup"
+  "deleting_backup":"Excluindo o backup",
+  "restore_backup":"Restaurar backup",
+  "restore":"Restaurar"
 }

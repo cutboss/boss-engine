@@ -1,14 +1,16 @@
 {
   "@@locale":"ru",
   "backup":"Резервное копирование",
-  "checking_status":"Проверка состояния\u2026",
+  "checking_status_ellipsis":"Проверка состояния\u2026",
   "no_data_backed_up":"Нет резервных копий",
   "back_up_now":"Начать копирование",
-  "backing_up_your_data":"Резервное копирование данных\u2026",
+  "backing_up_your_data_ellipsis":"Резервное копирование данных\u2026",
   "your_data_is_backed_up":"Резервное копирование выполнено",
   "couldnt_back_up_data_try_again_later":"Не удалось выполнить резервное копирование. Повторите попытку позже.",
   "backup_details":"Сведения о резервном копировании",
   "last_backup":"Дата последнего резервного копирования",
   "delete_backup":"Удалить резервную копию",
-  "deleting_backup":"Удаление данных\u2026"
+  "deleting_backup":"Удаление данных\u2026",
+  "restore_backup":"Восстановить из резервной копии",
+  "restore":"Восстановить"
 }

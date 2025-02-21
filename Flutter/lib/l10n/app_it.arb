@@ -1,14 +1,16 @@
 {
   "@@locale":"it",
   "backup":"Backup",
-  "checking_status":"Controllo dello stato\u2026",
+  "checking_status_ellipsis":"Controllo dello stato\u2026",
   "no_data_backed_up":"Nessuna copia di backup dei dati",
   "back_up_now":"Effettua ora il backup",
-  "backing_up_your_data":"Backup dei tuoi dati in corso\u2026",
+  "backing_up_your_data_ellipsis":"Backup dei tuoi dati in corso\u2026",
   "your_data_is_backed_up":"Backup dei dati effettuato",
   "couldnt_back_up_data_try_again_later":"Impossibile effettuare il backup. Riprova più tardi.",
   "backup_details":"Dettagli backup",
   "last_backup":"Ultimo backup",
   "delete_backup":"Elimina backup",
-  "deleting_backup":"Eliminazione backup"
+  "deleting_backup":"Eliminazione backup",
+  "restore_backup":"Ripristina backup",
+  "restore":"Ripristina"
 }

@@ -1,14 +1,16 @@
 {
   "@@locale":"zh_Hant",
   "backup":"備份",
-  "checking_status":"正在檢查狀態\u2026",
+  "checking_status_ellipsis":"正在檢查狀態\u2026",
   "no_data_backed_up":"未備份任何資料",
   "back_up_now":"立即備份",
-  "backing_up_your_data":"正在備份您的資料\u2026",
+  "backing_up_your_data_ellipsis":"正在備份您的資料\u2026",
   "your_data_is_backed_up":"您的資料已備份完成",
   "couldnt_back_up_data_try_again_later":"無法備份資料。請稍後再試。",
   "backup_details":"備份詳細資料",
   "last_backup":"上次備份時間",
   "delete_backup":"刪除備份",
-  "deleting_backup":"正在刪除備份"
+  "deleting_backup":"正在刪除備份",
+  "restore_backup":"還原備份",
+  "restore":"還原"
 }

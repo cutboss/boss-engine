@@ -1,14 +1,16 @@
 {
   "@@locale":"de",
   "backup":"Sicherung",
-  "checking_status":"Status wird geprüft\u2026",
+  "checking_status_ellipsis":"Status wird geprüft\u2026",
   "no_data_backed_up":"Keine Daten gesichert",
   "back_up_now":"Jetzt sichern",
-  "backing_up_your_data":"Daten werden gesichert\u2026",
+  "backing_up_your_data_ellipsis":"Daten werden gesichert\u2026",
   "your_data_is_backed_up":"Deine Daten wurden gesichert",
   "couldnt_back_up_data_try_again_later":"Daten konnten nicht gesichert werden. Später noch einmal versuchen.",
   "backup_details":"Backup-Details",
   "last_backup":"Letzte Sicherung",
   "delete_backup":"Sicherung löschen",
-  "deleting_backup":"Sicherung wird gelöscht"
+  "deleting_backup":"Sicherung wird gelöscht",
+  "restore_backup":"Backup wiederherstellen",
+  "restore":"Wiederherstellen"
 }

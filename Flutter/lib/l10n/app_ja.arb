@@ -1,14 +1,16 @@
 {
   "@@locale":"ja",
   "backup":"バックアップ",
-  "checking_status":"ステータスを確認しています\u2026",
+  "checking_status_ellipsis":"ステータスを確認しています\u2026",
   "no_data_backed_up":"データがバックアップされていません",
   "back_up_now":"今すぐバックアップ",
-  "backing_up_your_data":"データをバックアップしています\u2026",
+  "backing_up_your_data_ellipsis":"データをバックアップしています\u2026",
   "your_data_is_backed_up":"データをバックアップしました",
   "couldnt_back_up_data_try_again_later":"データをバックアップできませんでした。しばらくしてからもう一度お試しください。",
   "backup_details":"バックアップの詳細",
   "last_backup":"最終バックアップ",
   "delete_backup":"バックアップを削除",
-  "deleting_backup":"バックアップを削除しています"
+  "deleting_backup":"バックアップを削除しています",
+  "restore_backup":"バックアップを復元",
+  "restore":"復元"
 }

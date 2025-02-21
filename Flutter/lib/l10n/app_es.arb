@@ -1,14 +1,16 @@
 {
   "@@locale":"es",
   "backup":"Hacer copia de seguridad",
-  "checking_status":"Comprobando estado\u2026",
+  "checking_status_ellipsis":"Comprobando estado\u2026",
   "no_data_backed_up":"No hay copia de seguridad de ningún dato",
   "back_up_now":"Crear copia de seguridad ahora",
-  "backing_up_your_data":"Creando copia de seguridad de tus datos\u2026",
+  "backing_up_your_data_ellipsis":"Creando copia de seguridad de tus datos\u2026",
   "your_data_is_backed_up":"Se ha creado una copia de seguridad de tus datos",
   "couldnt_back_up_data_try_again_later":"No se ha podido crear una copia de seguridad de tus datos. Vuelve a intentarlo más tarde.",
   "backup_details":"Detalles de la copia de seguridad",
   "last_backup":"Última copia de seguridad",
   "delete_backup":"Eliminar copia de seguridad",
-  "deleting_backup":"Eliminando la copia de seguridad"
+  "deleting_backup":"Eliminando la copia de seguridad",
+  "restore_backup":"Restaurar copia de seguridad",
+  "restore":"Restaurar"
 }
