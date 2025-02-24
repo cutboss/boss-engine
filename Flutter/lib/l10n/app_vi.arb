@@ -17,5 +17,7 @@
   "delete_backup":"Xóa dữ liệu sao lưu",
   "deleting_backup":"Đang xóa dữ liệu sao lưu",
   "restore_backup":"Khôi phục bản sao lưu",
-  "restore":"Khôi phục"
+  "restore":"Khôi phục",
+  "yesterday":"Hôm qua",
+  "today":"Hôm nay"
 }

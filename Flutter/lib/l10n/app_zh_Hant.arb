@@ -17,5 +17,7 @@
   "delete_backup":"刪除備份",
   "deleting_backup":"正在刪除備份",
   "restore_backup":"還原備份",
-  "restore":"還原"
+  "restore":"還原",
+  "yesterday":"昨天",
+  "today":"今天"
 }

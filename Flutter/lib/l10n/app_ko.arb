@@ -17,5 +17,7 @@
   "delete_backup":"백업 삭제",
   "deleting_backup":"백업 삭제 중",
   "restore_backup":"백업 복원",
-  "restore":"복원"
+  "restore":"복원",
+  "yesterday":"어제",
+  "today":"오늘"
 }

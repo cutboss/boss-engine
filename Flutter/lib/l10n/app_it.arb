@@ -17,5 +17,7 @@
   "delete_backup":"Elimina backup",
   "deleting_backup":"Eliminazione backup",
   "restore_backup":"Ripristina backup",
-  "restore":"Ripristina"
+  "restore":"Ripristina",
+  "yesterday":"Ieri",
+  "today":"Oggi"
 }

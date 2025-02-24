@@ -17,5 +17,7 @@
   "delete_backup":"删除备份",
   "deleting_backup":"正在删除备份内容",
   "restore_backup":"恢复备份",
-  "restore":"恢复"
+  "restore":"恢复",
+  "yesterday":"昨天",
+  "today":"今天"
 }

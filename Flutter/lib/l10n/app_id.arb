@@ -17,5 +17,7 @@
   "delete_backup":"Hapus cadangan",
   "deleting_backup":"Menghapus cadangan",
   "restore_backup":"Pulihkan cadangan",
-  "restore":"Pulihkan"
+  "restore":"Pulihkan",
+  "yesterday":"Kemarin",
+  "today":"Hari ini"
 }

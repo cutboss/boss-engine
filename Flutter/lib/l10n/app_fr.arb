@@ -17,5 +17,7 @@
   "delete_backup":"Supprimer la sauvegarde",
   "deleting_backup":"Suppression de la sauvegarde\u2026",
   "restore_backup":"Restaurer la copie de sauvegarde",
-  "restore":"Restaurer"
+  "restore":"Restaurer",
+  "yesterday":"Hier",
+  "today":"Aujourd'hui"
 }

@@ -17,5 +17,7 @@
   "delete_backup":"Sicherung löschen",
   "deleting_backup":"Sicherung wird gelöscht",
   "restore_backup":"Backup wiederherstellen",
-  "restore":"Wiederherstellen"
+  "restore":"Wiederherstellen",
+  "yesterday":"Gestern",
+  "today":"Heute"
 }

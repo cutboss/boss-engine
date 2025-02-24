@@ -17,5 +17,7 @@
   "delete_backup":"バックアップを削除",
   "deleting_backup":"バックアップを削除しています",
   "restore_backup":"バックアップを復元",
-  "restore":"復元"
+  "restore":"復元",
+  "yesterday":"昨日",
+  "today":"今日"
 }
